@@ -17,6 +17,6 @@ public class Main {
         lesson1.fillArray();
         lesson1.lesssix();
         lesson1.diagonal();
-        lesson1.array(3,3);1
+        lesson1.array(3,3);
     }
 }
