@@ -1,7 +1,7 @@
 package org.example;
 
 public class Park {
-    protected String name;
+    private String name;
     public Park(String name) {
         this.name = name;
     }
