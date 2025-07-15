@@ -1,9 +1,9 @@
 package org.example;
 
 public class Product {
-    String name, data, manufacture, country;
-    double price;
-    boolean reserved;
+    private String name, data, manufacture, country;
+    private double price;
+    private boolean reserved;
     public Product (String name, String data, String manufacture, String country, double price, boolean reserved) {
         this.name = name;
         this.data = data;
